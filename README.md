@@ -135,4 +135,22 @@ ESTAMOS SEGUROS EN INTERNET?
     el principal fallo de seguridad no tieen qeu ver con software
 
 eCONDUCE MEXICO A SILLICON VALLEY
-  emprese de renta de motos con lugares de carga 
+  emprese de renta de motos con lugares de carga
+
+ESCRIBIR PARA INTERNET
+  Es completamente distitno a escribir si se estudio periodismo
+  Generar trafico del post mas compartidos
+  Leer bien en distintos dispositivos
+  Email para vender
+    que no permita hacer scroll
+    la mayoria de email son leidos en smartphone
+  Uso de infografias
+    empatia y solucion en el tweet
+    romper esquema de twitter
+  SEO
+  Social Media
+  Resumir como psicopatas
+  Usen Keywords
+    escribir como humanos
+  Google-trends
+  Escriban todos los dias
