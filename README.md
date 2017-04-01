@@ -111,3 +111,25 @@ NINTENTO SWITCH
   resoluciono de 720
   micro de 2tb futuro
   juegos fisicos o descargar d ela tienda
+
+ESTAMOS SEGUROS EN INTERNET?
+  SXSW AUSTIN education
+  snapchat
+    esta bajando
+  google slack y hangouts unbundle
+    separando suit
+    google organizandose para corperativo
+  facebook messenger
+    snapchat stories event
+  whatsapp businnes tools
+    preocupandose por la parte corporativa
+  Seguridad Informatica
+    internet cada vez mas fragil
+    gente pierde privacidad al pasar la frontera
+    eff.org
+  Seguridad de datos
+  Seguridad de sistemas
+  Wikileaks
+    como violar seguirdad de whatsapp telegram
+  Malware
+    el principal fallo de seguridad no tieen qeu ver con software
