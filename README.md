@@ -94,3 +94,20 @@ ALGORITMOS DE CIFRADO
   SHA-3
     no se han detectado debilidades
     pero es muy caro en terminos de procesamiento
+
+NINTENTO SWITCH
+  3 marzo nintengo SWITCH
+  wii 600 mil consolas
+  1 millos en 2 dias con switch
+  290 dolares
+  consola muy portable
+  joy
+  usb type c
+    velocidad carga rapida
+  hdmi
+  soporte pra los joy
+  sensores dde movimiento
+  32gb por fabrica
+  resoluciono de 720
+  micro de 2tb futuro
+  juegos fisicos o descargar d ela tienda
