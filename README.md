@@ -180,3 +180,9 @@ REDES NEURONALES
       fit forwared
       ....
       cadenas de markov (prediccion)
+
+UBER SEXISMO
+  mujer se siente elaborado por sus skills
+  caso fue jefe le propuso tener relaciones sexuales directamente
+  mujres denuncia acoso sexual renuncian a los 6 meses
+  
