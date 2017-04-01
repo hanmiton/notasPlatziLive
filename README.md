@@ -43,3 +43,21 @@ Que apreder de javascript en el 2017
     lenguaje del futuro
   web gl
     usado por google maps
+
+COMO SER UN AUTODIDACTA
+  Diseñadores
+    Se necesita portafolio
+  Marketers
+    Dinero gratis para hacer
+    Creditor para facebook
+    Viralizar ideas convensar ideas
+    Sabe hacer impacto y personas se interesasn
+  Programadores
+    ver github
+    equivocarse todo el tiempo
+  Sindrome del impostor
+    sentirq no se esta listo y ponerse en situaicones donde no se sientas comodo
+  Emprendedor
+      es autodidacta por naturalesa
+      siempre apernder cosas nuevas
+      
