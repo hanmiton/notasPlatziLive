@@ -60,4 +60,37 @@ COMO SER UN AUTODIDACTA
   Emprendedor
       es autodidacta por naturalesa
       siempre apernder cosas nuevas
-      
+
+ALGORITMOS DE CIFRADO
+  definen como hay economia en internet
+  tarjetas de credito
+  ssl ssh https depende de algoritmos de cifrado
+
+  CLOUFRAME
+    ayuda a protejer datos de otras empresas
+    ataque y transmitiendo en texto plano
+  GOOGLE PROYECT 0
+    eliminar todas la vulnerabilidades
+  HASH
+    convierte en un pequeño nuemro indicador
+    siemrpe es unico
+    funcion matematica q genra huella de un archivo
+  SHA
+    SECURE HASH ALGORYTM
+  Collison
+    se generan millones de hash y al final se puede concidir hash y  se puede insertar mensajes
+    parecio ataques de fishing pero dificil de detectar
+    se usaron GOOGLE CLOUD para generar el mismo hash
+  SHA-1
+    algoritmo roto no usarlo
+  MD5
+    guadar contraseña en bases de datos
+    en php
+    roto en 2004
+    no usar
+  SHA-2
+    se han detectado debilidades en 2008
+    pero no ha sido roto
+  SHA-3
+    no se han detectado debilidades
+    pero es muy caro en terminos de procesamiento
