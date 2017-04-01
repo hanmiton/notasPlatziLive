@@ -154,3 +154,29 @@ ESCRIBIR PARA INTERNET
     escribir como humanos
   Google-trends
   Escriban todos los dias
+
+REDES NEURONALES
+  tiene q ver con la inteligencia artificial
+  machine learning
+  input entradas
+  hidden nodes -> neuronas q resiben los inputs
+  output node -> resultado
+  pesos de los datos (nivel de importancia )
+  funciones
+    funcion de paso
+      0 1
+    funcion de signos
+      -1 0 1
+    funcion sigmoide
+      va dese 0 a 1 en una curva
+      pasan por el numero de neuronoas q pasaron
+      cuando funcionan esa estructura se llama aprendizaje
+    redes nerunorales
+      recurrentes
+      simetricas
+      unica
+    Redes neuronales existentes
+      percetron
+      fit forwared
+      ....
+      cadenas de markov (prediccion)
