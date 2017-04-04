@@ -185,4 +185,10 @@ UBER SEXISMO
   mujer se siente elaborado por sus skills
   caso fue jefe le propuso tener relaciones sexuales directamente
   mujres denuncia acoso sexual renuncian a los 6 meses
-  
+
+MENTORES
+  se debe buscar un mentor que ns de una guia
+  platzi.com/mentor
+
+TERMINADO LIVE LIMITACIONES
+  no depeneden las limitaciones han sido los que ha llevado a grandes cambios en la industria de software 
